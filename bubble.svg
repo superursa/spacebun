@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="708px" height="689px" viewBox="0 0 708 689" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>bubble</title>
+    <defs>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="100%" gradientTransform="translate(0.500000,0.000000),scale(0.973077,1.000000),rotate(90.000000),translate(-0.500000,-0.000000)" id="radialGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#E9F3F7" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-199.000000, -104.000000)">
+            <g id="bubble" transform="translate(200.000000, 105.000000)">
+                <ellipse stroke="#E8FEFA" fill-opacity="0.32" fill="url(#radialGradient-1)" cx="353.003953" cy="343.5" rx="352.503953" ry="343"></ellipse>
+                <circle id="Oval" fill-opacity="0.14" fill="#FFFFFF" cx="214" cy="188" r="67"></circle>
+                <circle id="Oval-Copy" fill-opacity="0.14" fill="#FFFFFF" cx="480.5" cy="566.5" r="48.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
